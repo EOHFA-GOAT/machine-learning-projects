@@ -1,2 +1,2 @@
-# machine-learning-projects
-Projects that expand my knowledge of Machine Learning
+In this repository, I will create projects based on machine learning.
+
