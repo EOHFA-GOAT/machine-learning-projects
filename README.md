@@ -5,3 +5,5 @@ All projects are in Jupyter Notebooks, and introductions to these projects can b
 Datasets for the notebooks can also be found in this repository.
 
 These projects are all licensed under Creative Commons Zero v1.0 Universal
+
+Soli Deo Gloria.
